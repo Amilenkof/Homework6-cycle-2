@@ -168,6 +168,7 @@ public class Main {
         while (year%79==0 && year>2023-200) {
             System.out.println(year);
             year++;
+
         }
     }
     }
